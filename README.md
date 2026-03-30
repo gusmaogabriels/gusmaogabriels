@@ -4,14 +4,12 @@ Chemical engineer and scientist working on physics-informed neural networks, neu
 
 Ph.D. from [Georgia Tech](https://www.chbe.gatech.edu/)
 
-&nbsp;
-
 <p align="center">
   <a href="https://www.gabrielgusmao.com/blog/kinns-playground/">
-    <img src="https://www.gabrielgusmao.com/images/playground-demo.gif" alt="PINN Playground Demo" width="420">
+    <img src="playground-demo.gif" alt="PINN Playground Demo" width="100%" style="max-width:680px; border-radius:8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </a>
 </p>
 
-&nbsp;
-
-[gabrielgusmao.com](https://www.gabrielgusmao.com) · [PINN Playground](https://www.gabrielgusmao.com/blog/kinns-playground/) · [Scholar](https://scholar.google.com/citations?user=qdPjGE8AAAAJ)
+<p align="center">
+  <a href="https://www.gabrielgusmao.com">gabrielgusmao.com</a> · <a href="https://www.gabrielgusmao.com/blog/kinns-playground/">PINN Playground</a> · <a href="https://scholar.google.com/citations?user=qdPjGE8AAAAJ">Scholar</a>
+</p>
