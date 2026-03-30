@@ -4,4 +4,6 @@ Chemical engineer and scientist working on physics-informed neural networks, neu
 
 Ph.D. from [Georgia Tech](https://www.chbe.gatech.edu/)
 
+[![PINN Playground Demo](https://www.gabrielgusmao.com/images/playground-demo.gif)](https://www.gabrielgusmao.com/blog/kinns-playground/)
+
 [gabrielgusmao.com](https://www.gabrielgusmao.com) · [PINN Playground](https://www.gabrielgusmao.com/blog/kinns-playground/) · [Scholar](https://scholar.google.com/citations?user=qdPjGE8AAAAJ)
