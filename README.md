@@ -11,10 +11,6 @@ Ph.D. from [Georgia Tech](https://www.chbe.gatech.edu/) (Medford Group)
 </p>
 
 <p align="center">
-  <a href="https://www.gabrielgusmao.com">gabrielgusmao.com</a> ·
   <a href="https://www.gabrielgusmao.com/blog/kinns-playground/">PINN Playground</a> ·
-  <a href="https://scholar.google.com/citations?user=qdPjGE8AAAAJ">Scholar</a> ·
-  <a href="https://orcid.org/0000-0002-2857-6963">ORCID</a> ·
-  <a href="https://www.researchgate.net/profile/Gabriel-Gusmao-2">ResearchGate</a> ·
-  <a href="https://www.linkedin.com/in/gusmaogabriels/">LinkedIn</a>
+  <a href="https://scholar.google.com/citations?user=qdPjGE8AAAAJ">Scholar</a>
 </p>
