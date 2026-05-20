@@ -8,8 +8,4 @@ Ph.D. from [Georgia Tech](https://www.chbe.gatech.edu/) ([Medford Group](https:/
   <img src="playground-demo.gif" alt="PINN Playground Demo" width="600" style="max-width:100%; height:auto; border-radius:8px;">
 </a>
 
-<table width="600" border="0" cellpadding="0" cellspacing="0">
-  <tr><td align="center">
-    <a href="https://www.gabrielgusmao.com/blog/kinns-playground/">PINN Playground</a> · <a href="https://scholar.google.com/citations?user=qdPjGE8AAAAJ">Scholar</a>
-  </td></tr>
-</table>
+[PINN Playground](https://www.gabrielgusmao.com/blog/kinns-playground/) · [Scholar](https://scholar.google.com/citations?user=qdPjGE8AAAAJ)
