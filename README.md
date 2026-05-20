@@ -6,7 +6,7 @@ Ph.D. from [Georgia Tech](https://www.chbe.gatech.edu/)
 
 <p align="center">
   <a href="https://www.gabrielgusmao.com/blog/kinns-playground/">
-    <img src="playground-demo.gif" alt="PINN Playground Demo" width="100%" style="max-width:680px; border-radius:8px;">
+    <img src="playground-demo.gif" alt="PINN Playground Demo" width="520" style="max-width:100%; height:auto; border-radius:8px;">
   </a>
 </p>
 
