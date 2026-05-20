@@ -2,7 +2,7 @@
 
 Chemical engineer and scientist working on physics-informed neural networks, neural ODEs, and uncertainty quantification for reaction kinetics and dynamical systems.
 
-Ph.D. from [Georgia Tech](https://www.chbe.gatech.edu/) (Medford Group)
+Ph.D. from [Georgia Tech](https://www.chbe.gatech.edu/) ([Medford Group](https://www.medford.chbe.gatech.edu/))
 
 <p align="center">
   <a href="https://www.gabrielgusmao.com/blog/kinns-playground/">
