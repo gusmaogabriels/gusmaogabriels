@@ -4,12 +4,21 @@ Chemical engineer and scientist working on physics-informed neural networks, neu
 
 Ph.D. from [Georgia Tech](https://www.chbe.gatech.edu/) ([Medford Group](https://www.medford.chbe.gatech.edu/))
 
-<p align="center">
-  <a href="https://www.gabrielgusmao.com/blog/kinns-playground/">
-    <img src="playground-demo.gif" alt="PINN Playground Demo" width="600" style="max-width:100%; height:auto; border-radius:8px;">
-  </a>
-</p>
+<div align="center">
+<strong>Forward PINNs · known rates</strong><br>
+<a href="https://www.gabrielgusmao.com/blog/kinns-playground/#rxn=serial&amp;mode=fwd&amp;algo=manual&amp;colloc=latin"><img src="assets/pinn-forward.gif" width="600" alt="Forward PINNs with known physical parameters: observed-time, uniform-grid and Latin-hypercube physics sampling."></a><br>
+<sub><a href="assets/pinn-forward.gif">Open forward GIF</a></sub>
+</div>
+
+<br>
+
+<div align="center">
+<strong>Inverse PINNs · unknown physical parameters</strong><br>
+<a href="https://www.gabrielgusmao.com/blog/kinns-playground/#rxn=serial&amp;mode=inv&amp;algo=mle&amp;colloc=latin"><img src="assets/pinn-inverse.gif" width="600" alt="Inverse PINNs estimating unknown physical parameters: synchronized trajectories, local parameter intervals and MLE optimization."></a><br>
+<sub><a href="assets/pinn-inverse.gif">Open inverse GIF</a></sub>
+</div>
 
 <p align="center">
-  <a href="https://www.gabrielgusmao.com/blog/kinns-playground/">PINN Playground</a> · <a href="https://scholar.google.com/citations?user=qdPjGE8AAAAJ">Scholar</a>
+<sub>Example: kinetics-informed neural networks (KINNs) for A ⇌ B ⇌ C.</sub><br>
+<a href="https://github.com/gusmaogabriels/kinn">KINNs repository</a> · <a href="https://www.gabrielgusmao.com/blog/kinns-playground/">Interactive playground</a> · <a href="https://scholar.google.com/citations?user=qdPjGE8AAAAJ">Publications</a>
 </p>
