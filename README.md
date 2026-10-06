@@ -7,8 +7,8 @@ Ph.D. from [Georgia Tech](https://www.chbe.gatech.edu/) ([Medford Group](https:/
 <p align="center"><strong>Forward PINNs · known rates</strong></p>
 
 <div align="center">
-<a href="https://www.gabrielgusmao.com/blog/kinns-playground/#rxn=serial&amp;mode=fwd&amp;algo=manual&amp;colloc=latin"><img src="assets/pinn-forward.gif" width="600" alt="Forward PINNs with known physical parameters: observed-time, uniform-grid and Latin-hypercube physics sampling."></a><br>
-<sub><a href="assets/pinn-forward.gif">Open forward GIF</a></sub>
+<a href="https://www.gabrielgusmao.com/blog/kinns-playground/#rxn=serial&amp;mode=fwd&amp;algo=manual&amp;colloc=latin"><img src="assets/pinn-forward-1e47b6719898.gif" width="600" alt="Forward PINNs with known physical parameters: observed-time, uniform-grid and Latin-hypercube physics sampling."></a><br>
+<sub><a href="assets/pinn-forward-1e47b6719898.gif">Open forward GIF</a></sub>
 </div>
 
 <br>
@@ -16,8 +16,8 @@ Ph.D. from [Georgia Tech](https://www.chbe.gatech.edu/) ([Medford Group](https:/
 <p align="center"><strong>Inverse PINNs · unknown physical parameters</strong></p>
 
 <div align="center">
-<a href="https://www.gabrielgusmao.com/blog/kinns-playground/#rxn=serial&amp;mode=inv&amp;algo=mle&amp;colloc=latin"><img src="assets/pinn-inverse.gif" width="600" alt="Inverse PINNs estimating unknown physical parameters: synchronized trajectories, local parameter intervals and MLE optimization."></a><br>
-<sub><a href="assets/pinn-inverse.gif">Open inverse GIF</a></sub>
+<a href="https://www.gabrielgusmao.com/blog/kinns-playground/#rxn=serial&amp;mode=inv&amp;algo=mle&amp;colloc=latin"><img src="assets/pinn-inverse-fb090f5df994.gif" width="600" alt="Inverse PINNs estimating unknown physical parameters: synchronized trajectories, local parameter intervals and MLE optimization."></a><br>
+<sub><a href="assets/pinn-inverse-fb090f5df994.gif">Open inverse GIF</a></sub>
 </div>
 
 <p align="center">
